@@ -1,2 +1,2 @@
 # NeXT
-find more
+explore 
